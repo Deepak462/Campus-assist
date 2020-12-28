@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "981496361173",
+    "project_id": "campus-assist-3bff9",
+    "storage_bucket": "campus-assist-3bff9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981496361173:android:41413b676872bdded2b25c",
+        "android_client_info": {
+          "package_name": "com.example.campusassist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981496361173-t28a6m2j3vd7eibub9bo1bdojhqeio07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVI3YKrGq66QAvpCSbG_5QaN7I7sWXsi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981496361173-t28a6m2j3vd7eibub9bo1bdojhqeio07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
